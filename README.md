@@ -1,6 +1,6 @@
-# Código de Conduta do Evento Python Brasil
+# Código de Conduta da Python Sul
 
-O evento Python Brasil é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
+A conferência Python Sul é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
 
 Com esta finalidade, a organização do evento conta com uma Equipe de Resposta que atua para garantir um ambiente com essas qualidades.
 
@@ -24,9 +24,9 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 
 ---
 
-# Python Brasil Code of Conduct
+# Python Sul's Code of Conduct
 
-Python Brasil conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
+The Python Sul conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
 
 Conference organizers offer a Response Team acting in order to guarantee such an environment.
 
